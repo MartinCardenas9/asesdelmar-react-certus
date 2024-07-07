@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz con Mariscos",
+    "price": 50,
+    "imgUrl": "./images/arroz.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ceviche",
+    "price": 45,
+    "imgUrl": "./images/ceviche.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Choritos a la chalaca",
+    "price": 40,
+    "imgUrl": "./images/choritosalachalaca.png"
+  },
+  {
+    "id": 4,
+    "name": "Parihuela",
+    "price": 50,
+    "imgUrl": "./images/parihuela.jpg"
+  }
+]
